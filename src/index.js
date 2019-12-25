@@ -54,7 +54,7 @@ class Main extends React.Component {
         super();
         this.speed = 100;
         this.rows = 30;
-        this.cols = 50;
+        this.cols = 30;
 
         this.state = {
             generation: 0,
